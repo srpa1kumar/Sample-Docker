@@ -1,0 +1,5 @@
+1.https://learn.microsoft.com/en-us/dotnet/devops/create-dotnet-github-action
+
+2.
+SELECT program, pga_used_mem, pga_alloc_mem, pga_freeable_mem, pga_max_mem
+  FROM V$PROCESS;
